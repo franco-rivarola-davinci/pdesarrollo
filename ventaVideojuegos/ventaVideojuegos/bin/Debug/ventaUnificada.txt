@@ -1,0 +1,10 @@
+1,root,consumidor final,2500,17/12/2022 16:38:53
+2,root,franco,5518,17/12/2022 16:43:27
+3,root,franco,31996,17/12/2022 16:47:28
+4,root,consumidor final,8560,17/12/2022 16:47:57
+5,root,rodrigo,4498,17/12/2022 16:48:45
+6,root1,consumidor final,1598,17/12/2022 16:50:16
+7,root1,asd,7498,17/12/2022 16:50:44
+8,root1,consumidor final,1998,17/12/2022 16:51:07
+9,root1,consumidor final,69900,17/12/2022 16:51:23
+10,root1,franco,42497,17/12/2022 16:51:49

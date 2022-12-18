@@ -1,5 +1,5 @@
 1,Mafia (Definitive Edition),259,98,1,1,Online,Un jugador,mafia.png,True
-2,Red Dead Redemption II,2500,95,2,1,Offline,Un jugador,reddeadredemption2.png,True
+2,Red Dead Redemption II,2500,94,2,1,Offline,Un jugador,reddeadredemption2.png,True
 3,Spider-Man Remastered,4999,100,2,2,Offline,Un jugador,spiderman.png,True
 4,Far Cry 5,2999,100,2,5,Offline,Un jugador,farcry5.png,True
 5,Fallout 4,799,98,2,3,Online,Multijugador,fallout4.png,True

@@ -213,7 +213,6 @@
             this.panelContainer.Size = new System.Drawing.Size(1425, 709);
             this.panelContainer.TabIndex = 6;
             this.panelContainer.UseTransparentBackground = true;
-            this.panelContainer.Paint += new System.Windows.Forms.PaintEventHandler(this.panelContainer_Paint);
             // 
             // Form1
             // 

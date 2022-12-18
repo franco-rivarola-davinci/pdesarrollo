@@ -8,3 +8,4 @@
 8,root1,consumidor final,1998,17/12/2022 16:51:07
 9,root1,consumidor final,69900,17/12/2022 16:51:23
 10,root1,franco,42497,17/12/2022 16:51:49
+11,root1,rodrigo,2500,17/12/2022 23:23:04

@@ -54,7 +54,6 @@
             this.txtUsuarioLogin.Name = "txtUsuarioLogin";
             this.txtUsuarioLogin.Size = new System.Drawing.Size(123, 20);
             this.txtUsuarioLogin.TabIndex = 8;
-            this.txtUsuarioLogin.TextChanged += new System.EventHandler(this.txtUsuarioLogin_TextChanged);
             // 
             // guna2GradientPanel1
             // 

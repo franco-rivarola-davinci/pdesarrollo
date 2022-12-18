@@ -14,3 +14,4 @@
 9,root1,consumidor final,Call of Duty Modern Warfare II,6990,10,69900,17/12/2022 16:51:23
 10,root1,franco,Tropico 6,999,3,2997,17/12/2022 16:51:49
 10,root1,franco,UFC 4,7900,5,39500,17/12/2022 16:51:49
+11,root1,rodrigo,Red Dead Redemption II,2500,1,2500,17/12/2022 23:23:04

@@ -800,3 +800,5 @@ C:\Users\franc\OneDrive\Escritorio\DP\TP MI GIT\PlataformasDeDesarrollo\ventaVid
 C:\Users\franc\OneDrive\Escritorio\DP\TP MI GIT\PlataformasDeDesarrollo\ventaVideojuegos\ventaVideojuegos\bin\Debug\Syncfusion.Shared.Base.xml
 C:\Users\franc\OneDrive\Escritorio\DP\TP MI GIT\PlataformasDeDesarrollo\ventaVideojuegos\ventaVideojuegos\bin\Debug\System.Text.Encodings.Web.xml
 C:\Users\franc\OneDrive\Escritorio\DP\TP MI GIT\PlataformasDeDesarrollo\ventaVideojuegos\ventaVideojuegos\obj\Debug\ventaVideojuegos.VerFactura.resources
+C:\Users\franc\OneDrive\Escritorio\ventaVideojuegos\ventaVideojuegos\obj\Debug\ventaVideojuegos.VerDetalles.resources
+C:\Users\franc\OneDrive\Escritorio\ventaVideojuegos\ventaVideojuegos\obj\Debug\ventaVideojuegos.VerFactura.resources
